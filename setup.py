@@ -18,7 +18,7 @@ setup(
     url='https://github.com/rhiever/datacleaner',
     license='License :: OSI Approved :: MIT License',
     entry_points={'console_scripts': ['datacleaner=datacleaner:main', ]},
-    description=('A Python tool that automatically cleans data sets and readies them for analysis.'),
+    description=('A Python tool that automatically cleans datasets and reads them for analysis.'),
     long_description='''
 A Python tool that automatically cleans data sets and readies them for analysis.
 
